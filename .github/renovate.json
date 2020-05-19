@@ -7,7 +7,6 @@
     ":masterIssue",
     ":semanticCommits",
     ":timezone(Europe/Paris)",
-    "group:all-patch",
     "group:allNonMajor"
   ],
   "masterIssueAutoclose": true,
