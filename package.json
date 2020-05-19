@@ -14,6 +14,7 @@
     "lodash.first": "2",
     "lodash.flatmap": "^4.3.0",
     "lodash.get": "4.4.2",
+    "lodash.isequal": "2.3.0",
     "lodash.merge": "4.6.2",
     "lodash.uniq": "^4.0.2",
     "next": "8"
