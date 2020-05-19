@@ -2814,10 +2814,10 @@ lodash.createcallback@~2.4.1:
     lodash.keys "~2.4.1"
     lodash.property "~2.4.1"
 
-lodash.drop@^4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/lodash.drop/-/lodash.drop-4.1.0.tgz#c58fdc441b80d2ee3c35acb8999da95b20e83629"
-  integrity sha1-xY/cRBuA0u48Nay4mZ2pWyDoNik=
+lodash.drop@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/lodash.drop/-/lodash.drop-4.1.1.tgz#eca10b9c26973bae6821200bbb0c790a29afd1d3"
+  integrity sha1-7KELnCaXO65oISALuwx5Cimv0dM=
 
 lodash.first@2:
   version "2.4.1"
