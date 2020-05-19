@@ -8,6 +8,7 @@
     ":semanticCommits",
     ":timezone(Europe/Paris)",
     "group:allNonMajor",
+    "group:recommended",
     ":separateMajorReleases"
   ],
   "masterIssueAutoclose": true,
