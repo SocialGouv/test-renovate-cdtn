@@ -7,6 +7,7 @@
     ":masterIssue",
     ":semanticCommits",
     ":timezone(Europe/Paris)",
+    "group:all-patch",
     "group:allNonMajor"
   ],
   "masterIssueAutoclose": true,
@@ -29,6 +30,13 @@
         "^registry.gitlab.factory.social.gouv.fr/socialgouv/docker/"
       ],
       "groupName": "socialgouv/docker images"
+    },
+    {
+      "packagePatterns": ["*"],
+      "patch": {
+        "groupName": "all patch dependencies",
+        "groupSlug": "all-patch"
+      }
     }
   ],
   "postUpdateOptions": ["npmDedupe", "yarnDedupeHighest"],
