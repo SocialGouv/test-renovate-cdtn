@@ -32,6 +32,7 @@
       "groupName": "socialgouv/docker images"
     },
     {
+      "groupName": "all-patch",
       "packagePatterns": ["*"],
       "patch": {
         "groupName": "all patch dependencies",
