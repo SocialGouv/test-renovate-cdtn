@@ -13,6 +13,7 @@
     "lodash.drop": "^4.1.1",
     "lodash.first": "2",
     "lodash.flatmap": "^4.3.0",
+    "lodash.merge": "4.6.1",
     "lodash.uniq": "^4.0.2",
     "next": "8"
   }
