@@ -14,7 +14,7 @@
   "separateMinorPatch": true,
   "patch": {
     "automerge": true,
-    "extends": ["schedule:earlyMondays"]
+    "extends": ["schedule:earlyMondays", "group:all"]
   },
   "node": {
     "supportPolicy": ["lts_latest"]
@@ -30,14 +30,6 @@
         "^registry.gitlab.factory.social.gouv.fr/socialgouv/docker/"
       ],
       "groupName": "socialgouv/docker images"
-    },
-    {
-      "groupName": "all-patch",
-      "packagePatterns": ["*"],
-      "patch": {
-        "groupName": "all patch dependencies",
-        "groupSlug": "all-patch"
-      }
     }
   ],
   "postUpdateOptions": ["npmDedupe", "yarnDedupeHighest"],
