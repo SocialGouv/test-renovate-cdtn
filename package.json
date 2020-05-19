@@ -5,6 +5,9 @@
   "repository": "git@github.com:SocialGouv/test-renovate.git",
   "author": "Julien Bouquillon <julien.bouquillon@sg.social.gouv.fr>",
   "license": "MIT",
+  "scripts": {
+    "test": "echo YOLO"
+  },
   "dependencies": {
     "lodash.concat": "^4.0.0",
     "lodash.drop": "^4.1.0",
