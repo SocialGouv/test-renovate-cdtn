@@ -10,11 +10,11 @@
   },
   "dependencies": {
     "lodash.concat": "^4.0.0",
-    "lodash.debounce": "4.0.1",
+    "lodash.debounce": "4.0.8",
     "lodash.drop": "^4.1.1",
     "lodash.first": "2",
     "lodash.flatmap": "^4.3.0",
-    "lodash.get": "4.4.1",
+    "lodash.get": "4.4.2",
     "lodash.isequal": "2.3.0",
     "lodash.merge": "4.6.2",
     "lodash.uniq": "^4.0.2",
