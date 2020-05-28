@@ -8,16 +8,15 @@
     {
       "packagePatterns": ["^@socialgouv/.*-(data|vdd)$"],
       "schedule": ["at any time"],
-      "minor": {
-        "groupName": "@socialgouv data packages",
-        "automerge": true
-      }
+      "groupName": "@socialgouv data packages",
+      "automerge": true,
+      "updateTypes": ["minor", "patch"]
     },
     {
       "excludePackagePatterns": ["^@socialgouv/.*-(data|vdd)$"],
       "schedule": ["every weekend"],
       "updateTypes": ["patch"],
-      "groupName": "socialgouv-patch-dependencies",
+      "groupName": "patch-dependencies",
       "automergeType": "branch",
       "automerge": true
     },
