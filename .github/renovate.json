@@ -4,11 +4,12 @@
   "extends": [
     "github>SocialGouv/renovate-config:light"
   ],
+  "ignorePresets": ["group:allNonMajor"],
   "packageRules": [
     {
       "packagePatterns": ["^@socialgouv/.*-(data|vdd)$"],
       "schedule": ["at any time"],
-      "groupName": "@socialgouv data packages test",
+      "groupName": "@socialgouv data packages",
       "automerge": true,
       "updateTypes": ["minor", "patch"]
     },
