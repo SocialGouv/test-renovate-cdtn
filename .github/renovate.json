@@ -8,7 +8,7 @@
     {
       "packagePatterns": ["^@socialgouv/.*-(data|vdd)$"],
       "schedule": ["at any time"],
-      "groupName": "@socialgouv data packages",
+      "groupName": "@socialgouv data packages test",
       "automerge": true,
       "updateTypes": ["minor", "patch"]
     },
