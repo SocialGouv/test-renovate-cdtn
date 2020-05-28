@@ -17,7 +17,7 @@
       "excludePackagePatterns": ["^@socialgouv/.*-(data|vdd)$"],
       "schedule": ["every weekend"],
       "updateTypes": ["patch"],
-      "groupName": "patch-dependencies",
+      "groupName": "socialgouv-patch-dependencies",
       "automergeType": "branch",
       "automerge": true
     },
