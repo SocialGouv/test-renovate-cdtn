@@ -9,6 +9,7 @@
     "test": "echo YOLO"
   },
   "dependencies": {
+    "@reach/dialog": "0.10.2",
     "@reach/tooltip": "0.10.2",
     "@socialgouv/contributions-data": "1.27.0",
     "@socialgouv/datafiller-data": "1.23.0",
