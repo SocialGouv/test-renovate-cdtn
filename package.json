@@ -17,7 +17,7 @@
     "lodash.concat": "^4.0.0",
     "lodash.debounce": "4.0.8",
     "lodash.drop": "^4.1.1",
-    "lodash.first": "2",
+    "lodash.first": "3",
     "lodash.flatmap": "^4.3.0",
     "lodash.get": "4.4.2",
     "lodash.isequal": "2.3.0",
