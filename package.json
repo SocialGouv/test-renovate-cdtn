@@ -12,7 +12,7 @@
     "@reach/dialog": "0.10.3",
     "@reach/tooltip": "0.10.3",
     "@socialgouv/contributions-data": "1.28.0",
-    "@socialgouv/datafiller-data": "1.26.0",
+    "@socialgouv/datafiller-data": "1.27.0",
     "final-form": "4.19.1",
     "lodash.concat": "^4.0.0",
     "lodash.debounce": "4.0.8",
