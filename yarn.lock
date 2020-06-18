@@ -871,20 +871,20 @@
   dependencies:
     tslib "^1.11.2"
 
-"@socialgouv/contributions-data@1.32.0":
-  version "1.32.0"
-  resolved "https://registry.yarnpkg.com/@socialgouv/contributions-data/-/contributions-data-1.32.0.tgz#adecf4e7269fc045db21aca2abc9ba87d54aa96e"
-  integrity sha512-R/OvB+fGLpSs0Vq1I6fv58yCCFGPkJh1XtNty2/KGYHNQI4i4uYsfyT6g4wy/GXVcF6+GbOgJ1BK/I9BhYW52g==
+"@socialgouv/contributions-data@1.33.0":
+  version "1.33.0"
+  resolved "https://registry.yarnpkg.com/@socialgouv/contributions-data/-/contributions-data-1.33.0.tgz#4b597e848d2aac6e9dea6a584858c5280fcfcd9e"
+  integrity sha512-DJeeVjA3j8k58LcMC2nDAFvRmgOdS8BuOdKCM2lNDYO6ZE/Fqa3mK/vq4ijx9a/ItIkownLeyQNU9STXlJFxqw==
   dependencies:
     "@socialgouv/kali-data" "^1.3.36"
     node-fetch "^2.6.0"
     remark "^12.0.0"
     strip-markdown "^3.1.2"
 
-"@socialgouv/datafiller-data@1.29.0":
-  version "1.29.0"
-  resolved "https://registry.yarnpkg.com/@socialgouv/datafiller-data/-/datafiller-data-1.29.0.tgz#992b0fc21a97330a3ffcf1a3f736401ad336719b"
-  integrity sha512-FZiVRXng3ZNbPYSyg5dOBeKLJJfY5q2zd6Ixiz84G1VY5kovXcu6DFaYwbMojLkdv6ZXvshMYh56G7O+hsAtTg==
+"@socialgouv/datafiller-data@1.30.0":
+  version "1.30.0"
+  resolved "https://registry.yarnpkg.com/@socialgouv/datafiller-data/-/datafiller-data-1.30.0.tgz#0de54f89da6219e37682ada9240e8400fb8132d3"
+  integrity sha512-olvRORhwRNUUwPJZ4DzDWTv5SpYynGM4HldFTqpgHn0kmL0hTSHdSh+tyETC+Q58Q9ByHbv7x2Q0+7DXhFfzug==
   dependencies:
     node-fetch "^2.6.0"
     p-pipe "^3.1.0"
