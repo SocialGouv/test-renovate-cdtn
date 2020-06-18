@@ -11,8 +11,8 @@
   "dependencies": {
     "@reach/dialog": "0.10.3",
     "@reach/tooltip": "0.10.3",
-    "@socialgouv/contributions-data": "1.32.0",
-    "@socialgouv/datafiller-data": "1.29.0",
+    "@socialgouv/contributions-data": "1.33.0",
+    "@socialgouv/datafiller-data": "1.30.0",
     "final-form": "4.19.1",
     "lodash.concat": "^4.0.0",
     "lodash.debounce": "4.0.8",
