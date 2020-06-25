@@ -871,10 +871,10 @@
   dependencies:
     tslib "^2.0.0"
 
-"@socialgouv/contributions-data@1.36.0":
-  version "1.36.0"
-  resolved "https://registry.yarnpkg.com/@socialgouv/contributions-data/-/contributions-data-1.36.0.tgz#25e0d30f2d7d340f32cb04e85a83469a040f0a0d"
-  integrity sha512-eH2XCdD3x4PKHwl3eITv1mKVp/eG9uVyf01vYNZuS7gEFoJZOQ6chiXmttx4c2HvMKMr3PPDDRrS2sQr7cuOAQ==
+"@socialgouv/contributions-data@1.37.0":
+  version "1.37.0"
+  resolved "https://registry.yarnpkg.com/@socialgouv/contributions-data/-/contributions-data-1.37.0.tgz#1d71f3e5d04dc8b923c9d9f4747cf66b73f94e4a"
+  integrity sha512-PiIHRowflKKBzwrVdqJfkx12YtzVE0v2TkzOKRK+DwA5FZj8GRH58Sg2Lel4D5rJJcw8uSYabBKSqSPOl1eW9Q==
   dependencies:
     "@socialgouv/kali-data" "^1.3.36"
     node-fetch "^2.6.0"
