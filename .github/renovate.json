@@ -1,6 +1,6 @@
   
 {
-  "enabled": true,
+  "enabled": false,
   "extends": [
     "github>SocialGouv/renovate-config:socialgouv-data"
   ], 
@@ -26,7 +26,7 @@
       "updateTypes": ["major"]
     },
     {
-      "packagePatterns": [ "@reach" ],
+      "packagePatterns": [ "reach" ],
       "groupName": "@reach",
       "updateTypes": ["major"]
     },
