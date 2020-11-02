@@ -6,7 +6,12 @@
   ], 
   "packageRules": [
     {
-      "packagePatterns": [ "react" ],
+      "packagePatterns": [ "next" ],
+      "groupName": "@vercel/next",
+      "updateTypes": ["major"]
+    },
+    {
+      "packagePatterns": [ "react", "react-dom", "react-test-renderer" ],
       "groupName": "react",
       "updateTypes": ["major"]
     },
@@ -16,7 +21,7 @@
       "updateTypes": ["major"]
     },
     {
-      "packagePatterns": [ "rollup" ],
+      "packagePatterns": [ "@rollup" ],
       "groupName": "@rollup",
       "updateTypes": ["major"]
     },
