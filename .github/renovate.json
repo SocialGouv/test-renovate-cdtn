@@ -2,22 +2,28 @@
 {
   "enabled": true,
   "extends": [
-    "github>SocialGouv/renovate-config:light"
-  ],
-  "ignorePresets": ["group:allNonMajor"],
+    "github>SocialGouv/renovate-config:socialgouv-data"
+  ], 
   "packageRules": [
     {
-      "packagePatterns": ["^@socialgouv/.*-(data|vdd)$"],
-      "schedule": ["at any time"],
-      "groupName": "@socialgouv data packages",
-      "automerge": true,
-      "updateTypes": ["minor", "patch"]
+      "packagePatterns": [ "react" ],
+      "groupName": "react"
     },
     {
-      "excludePackagePatterns": ["^@socialgouv/.*-(data|vdd)$"], 
-      "minor": {
-        "groupName": "all non-major dependencies"
-      }
+      "packagePatterns": [ "remark", "strip-markdown" ],
+      "groupName": "remark"
+    },
+    {
+      "packagePatterns": [ "rollup" ],
+      "groupName": "@rollup"
+    },
+    {
+      "packagePatterns": [ "reach" ],
+      "groupName": "@reach"
+    },
+    {
+      "packagePatterns": [ "final-form" ],
+      "groupName": "final-form"
     }
   ]
 }
