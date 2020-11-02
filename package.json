@@ -12,7 +12,7 @@
     "@next/bundle-analyzer": "^9.5.5",
     "@reach/dialog": "0.10.2",
     "@reach/tooltip": "0.10.2",
-    "@socialgouv/contributions-data": "1.27.0",
+    "@socialgouv/contributions-data": "2.20.0",
     "@socialgouv/datafiller-data": "1.23.0",
     "final-form": "4.19.1",
     "lodash.concat": "^4.0.0",
