@@ -7,23 +7,28 @@
   "packageRules": [
     {
       "packagePatterns": [ "react" ],
-      "groupName": "react"
+      "groupName": "react",
+      "updateTypes": ["major"]
     },
     {
       "packagePatterns": [ "remark", "strip-markdown" ],
-      "groupName": "remark"
+      "groupName": "remark",
+      "updateTypes": ["major"]
     },
     {
       "packagePatterns": [ "rollup" ],
-      "groupName": "@rollup"
+      "groupName": "@rollup",
+      "updateTypes": ["major"]
     },
     {
       "packagePatterns": [ "reach" ],
-      "groupName": "@reach"
+      "groupName": "@reach",
+      "updateTypes": ["major"]
     },
     {
       "packagePatterns": [ "final-form" ],
-      "groupName": "final-form"
+      "groupName": "final-form",
+      "updateTypes": ["major"]
     }
   ]
 }
